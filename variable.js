@@ -1,8 +1,8 @@
 const accountId = 144564
 let accountEmail = "hitesh@google.com"
 var accoumtPassword = "1234"
-
-console.table([accountId,accountEmail,accoumtPassword])
+let accountstate
+console.table([accountId,accountEmail,accoumtPassword,accountstate])
 //single line comment
 /* 
 multi linme comment 
