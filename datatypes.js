@@ -3,4 +3,10 @@ let name ="pamkaj"
 
 
 
-// number = 
+// number = 2 powe 53
+//big int
+//string
+//bollen= rtue/false
+//null
+//undefined
+//symbol = unique
