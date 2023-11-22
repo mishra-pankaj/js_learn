@@ -5,5 +5,5 @@ console.log(myarry[1]);
 // array method
 
 myarry.push(6)
-myarry unshift(2)
+myarry.unshift(2)
 console.log(myarry);
