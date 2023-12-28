@@ -14,3 +14,7 @@ console.log(bolleanIsloggedIn);
 //0 - false 
 // "" - false 
 //"absd " - true
+
+//********************OPERATIONS*************************88/
+let value = 3
+let negative_value = -value
