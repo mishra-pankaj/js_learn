@@ -5,3 +5,9 @@
 // reference type(non primitive):
 //array, object,function
 
+//*******************/
+//stack(primitive) , heap (non primitivew)
+let myname= "asdcaca"
+let anotherName = myname
+
+
